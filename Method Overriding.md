@@ -35,3 +35,4 @@ for obj in (obj_goldfish, obj_hammerhead):
 
 
 ## RESULT
+Thus the python program created successfully.
